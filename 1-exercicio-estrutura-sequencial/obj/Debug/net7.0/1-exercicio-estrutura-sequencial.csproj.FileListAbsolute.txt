@@ -1,0 +1,15 @@
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\bin\Debug\net7.0\1-exercicio-estrutura-sequencial.exe
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\bin\Debug\net7.0\1-exercicio-estrutura-sequencial.deps.json
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\bin\Debug\net7.0\1-exercicio-estrutura-sequencial.runtimeconfig.json
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\bin\Debug\net7.0\1-exercicio-estrutura-sequencial.dll
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\bin\Debug\net7.0\1-exercicio-estrutura-sequencial.pdb
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.csproj.AssemblyReference.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.AssemblyInfoInputs.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.AssemblyInfo.cs
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.dll
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\refint\1-exercicio-estrutura-sequencial.dll
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.pdb
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\1-exercicio-estrutura-sequencial.genruntimeconfig.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\1-exercicio-estrutura-sequencial\obj\Debug\net7.0\ref\1-exercicio-estrutura-sequencial.dll
