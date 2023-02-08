@@ -1,0 +1,15 @@
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\bin\Debug\net7.0\6-teste.exe
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\bin\Debug\net7.0\6-teste.deps.json
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\bin\Debug\net7.0\6-teste.runtimeconfig.json
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\bin\Debug\net7.0\6-teste.dll
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\bin\Debug\net7.0\6-teste.pdb
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.csproj.AssemblyReference.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.AssemblyInfoInputs.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.AssemblyInfo.cs
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.dll
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\refint\6-teste.dll
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.pdb
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\6-teste.genruntimeconfig.cache
+C:\Users\vanes\Desktop\Exercícios\C# - Certo\6-teste\obj\Debug\net7.0\ref\6-teste.dll
